@@ -4,8 +4,8 @@
 
 **Location:** Bellmawr, NJ  
 **Email:** pshivam.patel3010@gmail.com  
-**LinkedIn:** [Your LinkedIn Here]  
-**GitHub:** [github.com/yourusername]  
+**LinkedIn:** https://www.linkedin.com/in/shivam-patel-a79789a1/  
+**GitHub:** github.com/pshivam3010
 
 ---
 
